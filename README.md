@@ -1,1 +1,1 @@
-# my-netbeans-repo
+# netbeans-projects
